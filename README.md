@@ -1,11 +1,11 @@
-# Place your firebase credentials in firebase.ts file to start with firebase
+### Place your firebase credentials in firebase.ts file to start with firebase
 login-form/src/config/firebase.ts
 
-# If you are using firebase make sure to enable the firebase flag from the 
+### If you are using firebase make sure to enable the firebase flag from the 
 login-form/src/constant/index.ts
 ENABLE_FIREBASE = true
 
-# Before running the npm start run command
+### Before running the npm start run command
 npm install
 
 ## Available Scripts
